@@ -1,5 +1,5 @@
 /*
- Author: Pabitra Priyadarshini Jena
+ Author: Pabitra Priyadarshini Jena 
  
  Task: Create a class Shape with attributes length and width.
  Write a method boolean isSquare() if both sides are equal.
